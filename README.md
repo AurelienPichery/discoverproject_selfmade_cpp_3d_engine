@@ -8,4 +8,6 @@ It takes a lot to understand everything about the maths involve there, but it's 
 how much those issues have been studied before and how it works now.
 
 ## How to use
-Download the project and open it with visual studio. You can then move with the keys "W" "A" "S" "D".
+Create a new C++ console app with Visual Studio. Add the file olcConsoleGameEngine.h to the folder of your vcxproj files.
+Then in your main c++ files copy paste the whole code.
+Then you can simply run the debugger. You should see a cube turning around. You can then move the camera with the keys "W" "A" "S" "D".
